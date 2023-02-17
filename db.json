@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "aca6a5b4-8f91-49e7-a768-ad63b5da3043",
+      "name": "Lesson",
+      "active": true
+    },
+    {
+      "id": "f2f361e3-3905-4dbf-ae0a-550bc38476b8",
+      "name": "Detective",
+      "active": false
+    }
+  ],
+  "books": [
+    {
+      "id": "1f403a19-edbf-4233-a679-2c1bf895fa94",
+      "title": "GetLesson",
+      "categoryId": "aca6a5b4-8f91-49e7-a768-ad63b5da3043",
+      "authorId": "aafa8c9d-7ba3-4757-ad0e-6659fb0bf080",
+      "publishDate": ""
+    },
+    {
+      "id": "747cdd90-cfef-4184-9113-b228f7045ee6",
+      "title": "TestLesson",
+      "categoryId": "f2f361e3-3905-4dbf-ae0a-550bc38476b8",
+      "authorId": "1aade380-81d2-4805-a4f4-2d5e8aa78cf8",
+      "publishDate": ""
+    }
+  ],
+  "authors": [
+    { "id": "aafa8c9d-7ba3-4757-ad0e-6659fb0bf080", "name": "Jaaaaohn" },
+    { "id": "1aade380-81d2-4805-a4f4-2d5e8aa78cf8", "name": "John" }
+  ]
+}
